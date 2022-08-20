@@ -1,0 +1,75 @@
+selector{property:value;}
+WHO        WHAT     HOW
+
+class tag allows to differentiate between images
+/*-------------*/ comment
+
+iframe
+
+onblur and onfocus
+
+<canvas> <video> <audio> <aside>
+
+<target> <textarea> <nav>
+
+
+.filename { property: value;}
+The above syntax is for the class in the css stylesheet
+can add two classes with a space
+which is not the case with id..
+
+
+PSEUDO CLASS-*
+:hover--- changes color when the pointer is placed on the text/img/button
+ div used for dividing content in a webpage.
+
+
+HTML-<span> tag used for changing parts of a paragraph without changing the line or underline the part of a sentence/word.
+Inline Elements-Do not block other elements occuring on the same line..
+
+<span>-stacked on the same line..
+       width can be changed according to the layout.
+
+Either for paragraph we could use width or we could change the display:inline in the CSS sheet.
+DISPLAY--
+BLOCK
+INLINE
+INLINE-BLOCK
+NONE-hides the element as if it never existed.
+
+Visibility: hidden-- hides the element but maintains its position.
+
+
+
+POSITION---                    CO-ORDINATES
+static                            TOP
+relative                          BOTTOM
+absolute                          LEFT
+fixed                             RIGHT
+
+
+Relative positioning is where the element would hav been displayed by default.
+
+
+position:fixed for a fixed navigation type bar for website
+
+text-align for alignment in parent element.
+
+margin: top right bottom left
+
+CSS FONT STACK, fonts.google.com,flaticon,giphy.com
+
+font-family: "font1", font2, font3, default, font_family. " " for specifics
+
+1em=16px
+100%=16px
+
+percentages and em if specified in the body as well as the respective css gets added up resulting in the int final output.
+the same is not the case with pixels as it is static.
+
+rem- to reroute the command given despite of any other previous command.
+
+float for wrapping text around the img in same line.
+clear for unwrapping.(left right top bottom)
+use float for positioning only when necessary.
+

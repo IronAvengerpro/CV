@@ -1,0 +1,27 @@
+body {
+  background-color:#EAF6F6;
+}
+h1{
+   color: #66BFBF;
+   text-decoration: underline;
+   text-shadow:2px 2px pink;
+   text-overflow: ellipsis;
+   font-family: "Bankshift",sans-serif;
+}
+h3{
+  color:cyan;
+}
+
+hr {
+    background-color:#EAF6F6;
+  border-style: none;
+  height: 0;
+  width: 20%;
+  border-top-style: dotted;
+  border-color:darkblue;
+  border-width: 3px;
+  font-family: "comic-sans",sans-serif;
+}
+img {
+  height: 300px;
+}

@@ -1,0 +1,23 @@
+ /*Styling using specific tags */
+body{
+  background-color:black;
+}
+
+h1{
+   color: cyan;
+   font-size: 100px;
+   font-family: monospace;
+ }
+/*Styling using specific classes*/
+ .p1{
+   color: pink;
+   font-size: 100px;
+   font-style:oblique;
+ }
+
+ .p2{
+   color: green;
+   font-family:fantasy;
+   font-size: 50px;
+ }
+ /*Styling using specific classes ends*/
